@@ -60,7 +60,7 @@ To run this notebook, you'll need:
     - The Numbers (**tn.movie_budgets.csv.gz**)
     - IMDB (**im.db**)
 3. Add your TMDb API key in the relevant section
-4. Execute cells sequentially in **workbook_2.ipynb**
+4. Execute cells sequentially in **final.ipynb**
 ## Key Findings
 1. Budget-ROI Relationship: Mid-budget films ($50-100M) show optimal ROI
 2.  Focus on creating films that combine critical excellence with broad appeal rather than chasing pure popularity or niche critical darlings.
